@@ -1,18 +1,16 @@
-#  Sistema IOT de irrigação e monitoramento agrícola
+# 💦 Sistema IOT de irrigação e monitoramento agrícola
 
-1. [Introduction](#🚪)
-2. [BOM - Bill of Materials](#📦)
-3. [Cases](#)
-4. [Images](#)
-5. [Optional](#) 
+1. [Introduction](#🚪-Introduction)
+2. [BOM - Bill of Materials](#📦-BOM-Bill-of-Materials)
+3. [Cases](#📃-Cases)
+4. [Images](#📸-Images)
+5. [Optional](#☑-Optional) 
 
-### 🚪
-## Introduction
+## 🚪 Introduction
 
 Projeto destinado ao **controle** de humidade do solo e **monitoramento** da humidade relativa do ar e da temperatura em ambiente de cultivo agrícola. 
 
-### 📦 
-## BOM - Bill of Materials
+## 📦 BOM - Bill of Materials
  
 | Material    | Price (R$)  | Obs.    |
 |---|:---:|---|
@@ -30,8 +28,7 @@ Projeto destinado ao **controle** de humidade do solo e **monitoramento** da hum
 | **TOTAL** | **140,50** |  
   
 
-###  
-  ## Cases
+## 📃 Cases
 
 - https://thingsboard.io/docs/samples/esp8266/temperature/
 
@@ -46,8 +43,7 @@ Projeto destinado ao **controle** de humidade do solo e **monitoramento** da hum
 - https://www.electronicshub.org/nodemcu-esp8266-adc-tutorial/
 
 
-### 
-## Images 
+## 📸 Images 
 
 ![esp8266-12e](./images/Screenshot_20230125_023417.png)
 ![carregador 5v](./images/Screenshot_20230125_023623.png) 
@@ -61,8 +57,7 @@ Projeto destinado ao **controle** de humidade do solo e **monitoramento** da hum
 ![transistor bc337](./images/Screenshot_20230125_025306.png)
 ![PCB](./images/Screenshot_20230125_025339.png)
 
-### 
-## Optional 
+## ☑ Optional 
 
 ![Display](./images/Screenshot_20230105-235344.png)
 
